@@ -1,4 +1,4 @@
-# GIMMarketplace
+# Marketplace
 
 A full-stack marketplace application where users can browse, search, filter, create, and delete listings. Built with a React + TypeScript + Redux frontend and a Node.js + Express + SQLite backend.
 
